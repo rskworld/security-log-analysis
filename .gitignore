@@ -30,11 +30,13 @@ ENV/
 .ipynb_checkpoints
 *.ipynb_checkpoints
 
-# Data files
-data/
-*.csv
-*.json
-*.xlsx
+# Data files (ignore generated data, but keep sample data)
+data/security_logs.csv
+data/*.json
+data/*.xlsx
+# Keep sample data files
+!data/security_logs_sample.csv
+!data/README_DATA.md
 
 # Output files
 output/
