@@ -104,6 +104,8 @@ You can replace this with your own security logs by modifying the `LOG_FILE_PATH
 
 ## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 This project is provided for educational purposes.
 
 ---
