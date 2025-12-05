@@ -1,0 +1,26 @@
+=== QUICK IMAGE GENERATION PROMPTS ===
+Security Log Analysis with ML - RSK World
+https://rskworld.in
+
+---
+
+IMAGE 1: Dashboard Overview
+"Modern dark-themed cybersecurity SOC dashboard with real-time security log analysis graphs, anomaly detection meters showing threat levels (LOW/MEDIUM/HIGH/CRITICAL), geographic threat map with country dots (US/IN/GB/DE/FR/CN/JP/BR/AU/CA), feature extraction panel with 50+ features listed, threat detection icons (port scanning, brute force, DDoS, data exfiltration), network traffic patterns, Python and ML logos, 'Security Log Analysis with ML - RSK World' header, dark blue/black background with cyan/green/yellow/red glowing accents, professional UI design"
+
+---
+
+IMAGE 2: Feature Extraction Pipeline
+"Left-to-right technical infographic showing: Security Logs input → Log Parser → Feature Extraction (50+ features: time-based, network, statistical, behavioral) → ML Models → Analysis Results (Normal/Suspicious/Malicious/Critical), color-coded sections (blue/green/orange/purple), data flow arrows, Python/scikit-learn logos, code snippets background, 'RSK World' branding, modern technical diagram style"
+
+---
+
+IMAGE 3: Threat Detection Visualization
+"Dynamic security network topology with 6 threat detection modules: Port Scanning (ports being scanned), Brute Force (failed logins), DDoS (traffic spikes), Data Exfiltration (large transfers), Geographic Anomaly (world map with suspicious connections), Privilege Escalation (unauthorized access), real-time alerts, anomaly heatmaps, incident classification badges, threat intelligence panel, network flow lines, security shields, dark cybersecurity theme with neon accents, 'Advanced Threat Detection - RSK World'"
+
+---
+
+IMAGE 4: Technical Architecture
+"Multi-layered architecture: Layer 1 (Input: CSV files, log parser, preprocessing), Layer 2 (Processing: feature extractor 50+ features, anomaly detector Isolation Forest, incident classifier Random Forest, advanced analyzer 6 modules), Layer 3 (Analysis: visualization engine, reporting), Layer 4 (Output: dashboards, Jupyter notebook, HTML demo, CSV reports), Python/Pandas/NumPy/Scikit-learn/Matplotlib/Jupyter logos, data flow arrows, color-coded modules, sample data fields visible, 'RSK World' branding, professional software architecture diagram"
+
+---
+
